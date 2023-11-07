@@ -1,2 +1,2 @@
 # **Java API test automation**
-This project contains an example of test automation in Java using retrofit as the API framework and JUnit as the test runner. The application under test is webhook.site which I like to use in tests for receiving webhooks.
+An example of automated API tests in Java / Maven using JUnit as the test runner and Retrofit for the API communication. The application under test is webhook.site which I like to use in tests for receiving webhooks. I have been developing the whole automated API tests solution at Phrase since January 2022.
